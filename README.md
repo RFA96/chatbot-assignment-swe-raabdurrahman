@@ -19,6 +19,7 @@ An intelligent e-commerce shopping assistant powered by Google Gemini AI. This f
 - [Chatbot Scenarios](#chatbot-scenarios)
 - [API Documentation](#api-documentation)
 - [Project Structure](#project-structure)
+- [Demo Scenario](#demo-scenario)
 - [Related Documentation](#related-documentation)
 
 ---
@@ -307,7 +308,7 @@ The AI chatbot supports the following conversational scenarios:
 | Scenario | Example User Input |
 |----------|-------------------|
 | Check stock by ID | "Is product #456 in stock?" |
-| Check stock by name | "Do you have the iPhone 15 in stock?" |
+| Check stock by name | "Do you have the Alternative Women's Florence Wrap in stock?" |
 | Multiple products | "Check availability for these items" |
 
 ### 4. Shopping Cart
@@ -317,7 +318,7 @@ The AI chatbot supports the following conversational scenarios:
 | View cart | "What's in my cart?" |
 | Add to cart | "Add this to my cart" |
 | Add multiple items | "Add all these products to cart" |
-| Remove from cart | "Remove the headphones from my cart" |
+| Remove from cart | "Remove the Alternative Women's Florence Wrap from my cart" |
 | Clear cart | "Empty my cart" |
 
 ### 5. Vouchers & Discounts
@@ -343,7 +344,7 @@ The AI chatbot supports the following conversational scenarios:
 
 | Scenario | Example User Input |
 |----------|-------------------|
-| Compare products | "Compare iPhone 15 and Samsung S24" |
+| Compare products | "Compare Lucky Brand Women's Plus-Size Moroccan Medallion Tee and Alternative Women's Florence Wrap" |
 | Side-by-side | "What's the difference between these two?" |
 
 ### 8. General Assistance
@@ -434,6 +435,34 @@ raabdurrahman_chatbot/
 ├── PRODUCTION_PLAN.md             # Deployment & scaling
 └── README.md                      # This file
 ```
+
+---
+
+## Demo Scenario
+
+**Live Demo**: [https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app](https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app)
+
+**Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1k7n_pw8D5GA7b3kt0qH4D7ZXUk1U5sv4/view?usp=sharing)
+
+Follow these steps to try out the application:
+
+### Step 1: Sign In
+
+1. On the homepage, click the **person icon** in the top-right corner.
+2. A sign-in popup will appear. Enter the following credentials:
+
+   | Field | Value |
+   |-------|-------|
+   | **Username** | `matthewmcneil@example.com` |
+   | **Password** | `Password1234` |
+
+3. Click **Sign In** to log in.
+
+### Step 2: Open the Chat
+
+1. After a successful sign in, the **person icon** will change to a **single-letter initial** of the user's first name — this confirms you are logged in.
+2. Click the **message icon** in the top-right corner.
+3. The chat application will open, and you can start interacting with the AI shopping assistant.
 
 ---
 
