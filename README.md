@@ -6,7 +6,7 @@ An intelligent e-commerce shopping assistant powered by Google Gemini AI. This f
 
 ## Demo Scenario
 
-**Live Demo**: [https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app](https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app)
+**Live Demo**: [https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app](https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app) --> **(USE DUMMY ACCOUNT FOR TESTING)**
 
 **Video Demo**: [https://drive.google.com/file/d/1k7n_pw8D5GA7b3kt0qH4D7ZXUk1U5sv4/view?usp=sharing](https://drive.google.com/file/d/1k7n_pw8D5GA7b3kt0qH4D7ZXUk1U5sv4/view?usp=sharing)
 
