@@ -4,8 +4,37 @@ An intelligent e-commerce shopping assistant powered by Google Gemini AI. This f
 
 ---
 
+## Demo Scenario
+
+**Live Demo**: [https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app](https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app)
+
+**Video Demo**: [https://drive.google.com/file/d/1k7n_pw8D5GA7b3kt0qH4D7ZXUk1U5sv4/view?usp=sharing](https://drive.google.com/file/d/1k7n_pw8D5GA7b3kt0qH4D7ZXUk1U5sv4/view?usp=sharing)
+
+Follow these steps to try out the application:
+
+### Step 1: Sign In
+
+1. On the homepage, click the **person icon** in the top-right corner.
+2. A sign-in popup will appear. Enter the following credentials:
+
+   | Field | Value |
+   |-------|-------|
+   | **Username** | `matthewmcneil@example.com` |
+   | **Password** | `Password1234` |
+
+3. Click **Sign In** to log in.
+
+### Step 2: Open the Chat
+
+1. After a successful sign in, the **person icon** will change to a **single-letter initial** of the user's first name — this confirms you are logged in.
+2. Click the **message icon** in the top-right corner.
+3. The chat application will open, and you can start interacting with the AI shopping assistant.
+
+---
+
 ## Table of Contents
 
+- [Demo Scenario](#demo-scenario)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
@@ -19,7 +48,6 @@ An intelligent e-commerce shopping assistant powered by Google Gemini AI. This f
 - [Chatbot Scenarios](#chatbot-scenarios)
 - [API Documentation](#api-documentation)
 - [Project Structure](#project-structure)
-- [Demo Scenario](#demo-scenario)
 - [Related Documentation](#related-documentation)
 
 ---
@@ -435,34 +463,6 @@ raabdurrahman_chatbot/
 ├── PRODUCTION_PLAN.md             # Deployment & scaling
 └── README.md                      # This file
 ```
-
----
-
-## Demo Scenario
-
-**Live Demo**: [https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app](https://frontend-chatbot-tridorian-swe-assigment-503152556677.asia-southeast2.run.app)
-
-**Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1k7n_pw8D5GA7b3kt0qH4D7ZXUk1U5sv4/view?usp=sharing)
-
-Follow these steps to try out the application:
-
-### Step 1: Sign In
-
-1. On the homepage, click the **person icon** in the top-right corner.
-2. A sign-in popup will appear. Enter the following credentials:
-
-   | Field | Value |
-   |-------|-------|
-   | **Username** | `matthewmcneil@example.com` |
-   | **Password** | `Password1234` |
-
-3. Click **Sign In** to log in.
-
-### Step 2: Open the Chat
-
-1. After a successful sign in, the **person icon** will change to a **single-letter initial** of the user's first name — this confirms you are logged in.
-2. Click the **message icon** in the top-right corner.
-3. The chat application will open, and you can start interacting with the AI shopping assistant.
 
 ---
 
